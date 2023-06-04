@@ -1,9 +1,9 @@
 <template>
-  <div :class="$style.foo">yes</div>
+  <div :class="$style.bar">bar</div>
 </template>
 
 <style module>
-  .foo {
+  .bar {
     color: blue;
   }
 </style>

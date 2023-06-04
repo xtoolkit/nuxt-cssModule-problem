@@ -1,5 +1,5 @@
 <template>
-  <div :class="$style.bar">yes</div>
+  <Ui1Foo :class="$style.bar" />
 </template>
 
 <style module>
